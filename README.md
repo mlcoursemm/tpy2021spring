@@ -27,7 +27,7 @@
 # Seminar on informatics. Introduction to Python
 
 ## Time and place
-Spring semester, 2020 at the Branch of Lomonosov Moscow State University in Tashkent
+Spring semester, 2021 at the Branch of Lomonosov Moscow State University in Tashkent, Uzbekistan
 
 ## Teachers
 Ph.D. [Petiushko A.A.](https://petiushko.info) and Ph.D. Ivanov I.E.
